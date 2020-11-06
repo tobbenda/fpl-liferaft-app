@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* @font-face {
+  font-family: IndieFlower;
+  src: local('Dancing_Script'), url(./fonts/Indie_Flower/IndieFlower-Regular.ttf) format('truetype');
+}
+
+* {
+  font-family: IndieFlower; 
+} */
+
+@font-face {
+  font-family: BalsamicSans;
+  src: local('BalsamicSans'), url(./fonts/Balsamiq_Sans/BalsamiqSans-Regular.ttf) format('truetype');
+}
+
+* {
+  font-family: BalsamicSans; 
+}
+
+
